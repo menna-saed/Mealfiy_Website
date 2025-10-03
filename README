@@ -1,0 +1,22 @@
+## Overview
+A simple meal recipes website to showcase different food dishes with images and short descriptions.
+## Features
+Responsive design
+Recipe listing page
+Food categories
+
+## Tech Stack
+HTML
+CSS
+JavaScript
+Bootstrap
+
+## Installation
+git clone https://github.com/menna-saed/Mealify_Website.git
+cd Mealify
+
+## Project Status
+Finished ✅
+                      
+## Developer
+Developed by Menna Allah Saed
